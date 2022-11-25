@@ -1,0 +1,9 @@
+export const SET_DAR = 'SET_DAR';
+export const SET_SEARCHED_DARS = 'SET_SEARCHED_DARS';
+export const SET_DARS = 'SET_DARS';
+export const SET_DARS_APPEND = 'SET_DARS_APPEND';
+export const ADD_NEW_DAR = 'ADD_NEW_DAR';
+export const SET_DAR_DETAIL = 'SET_DAR_DETAIL';
+export const SET_DAR_VALUE = 'SET_DAR_VALUE';
+export const SET_DAR_BACKLOGS = 'SET_DAR_BACKLOGS';
+export const SET_DAR_DEFAULT = 'SET_DAR_DEFAULT';
